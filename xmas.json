@@ -1,0 +1,23 @@
+{
+  "xmas-fifth-day": {
+    "partridges": {
+      "count": 1, 
+      "location": "a pear tree"
+    }, 
+    "calling-birds": "four", 
+    "french-hens": 3, 
+    "turtle-doves": "two", 
+    "golden-rings": 5
+  }, 
+  "ray": "a drop of golden sun", 
+  "xmas": true, 
+  "calling-birds": [
+    "huey", 
+    "dewey", 
+    "louie", 
+    "fred"
+  ], 
+  "pi": 3.14159, 
+  "french-hens": 3, 
+  "doe": "a deer, a female deer"
+}
